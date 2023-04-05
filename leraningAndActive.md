@@ -1,6 +1,8 @@
 # Learning and Active Communication
 
 * ## [1.](leraningAndActive.md) What are the steps/strategies to do Active Listening?
+
+
     * Active Listening the act of fully hearing and comprehending.
     * The meaning of what someone else is saying.
     * Here many following steps/strategies to do active Listening-
