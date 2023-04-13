@@ -60,7 +60,7 @@
 
         * <b>Mix it up:</b> Variety can help to keep your workouts interesting and challenging. Try different types of exercise, such as walking, running, swimming, cycling, or weightlifting.
 
-# Referances:-
+# References:-
 * [Emotional Quadrant](https://www.researchgate.net/publication/335191634/figure/fig2/AS:792212367486976@1565889555183/Modified-PA-plane-with-four-emotional-quadrants.jpg)
 * [Headspace | Meditation | Brilliant things happen in calm minds](https://www.youtube.com/watch?v=lACf4O_eSt0)
 * [One-Moment Meditation: "How to Meditate in a Moment"](https://www.youtube.com/watch?v=F6eFFCi12v8)
