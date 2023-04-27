@@ -18,3 +18,6 @@ If anything happens with you or some changes in your preplans inform your teams
 * Doing things with 100% involvement
     * I realized somewhere that I was not 100% focused on a topic or specific subject because some concentration is going on other things.
     * Now I have decided that I will follow the 100% concentration rules means when I will do something avoid unnecessary things like mobile phones talking unnecessarily to someone.
+
+# Reference:-
+* [Deep Work The Complete work](https://blog.doist.com/deep-work/)
